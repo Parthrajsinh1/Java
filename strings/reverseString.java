@@ -12,7 +12,7 @@ public class revString{
 			for(int i= s.length()-1 ; i>=0 ; i--) // start for loop in reverse order
 			{
 				r = r + s.charAt(i); // store the original string characters into the reverse string 
-			}
+			} 
 
 			System.out.println("Your Reverse String is : "+r); 
 			
